@@ -11,6 +11,6 @@ Os códigos de status das respostas HTTP indicam se uma requisição HTTP foi co
 
 ### Respostas informativas
 
-![](https://http.cat/100)
-~~~
-100 Continue
+
+* 100 Continue:
+- firinrnejejee
