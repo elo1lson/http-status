@@ -9,7 +9,8 @@ Os códigos de status das respostas HTTP indicam se uma requisição HTTP foi co
 * Erros do cliente (400-499)
 * Erros do servidor (500-599).
 
-## Respostas informativas
+### Respostas informativas
+
+![](https://http.cat/100)
 ~~~
 100 Continue
-~~~
