@@ -10,7 +10,8 @@ Os códigos de status das respostas HTTP indicam se uma requisição HTTP foi co
 * Erros do servidor (500-599).
 
 ### Respostas informativas
-
+***
+***
 
 * 100 Continue:
 > firinrnejejee
