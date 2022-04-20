@@ -13,4 +13,5 @@ Os códigos de status das respostas HTTP indicam se uma requisição HTTP foi co
 
 
 * 100 Continue:
-- firinrnejejee
+> firinrnejejee
+> kakwak
